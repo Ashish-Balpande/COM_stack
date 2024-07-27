@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1715235072 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\can_if.c
+	"can_if.h"
+
+1717419193 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\com.c
+	"com.h"
+
+1715234693 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\pdur.c
+	"pdur.h"
+
+1715260430 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\can_driver.c
+	"can_driver.h"
+
+1717413424 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\main.c
+	"main.h"
+
+1715249602 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\can_driver.h
+	<stdio.h>
+	<stdint.h>
+
+1714992473 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\main.h
+	<stdio.h>
+
+1715249602 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\can_if.h
+	<stdio.h>
+	<stdint.h>
+
+1715249602 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\pdur.h
+	<stdio.h>
+	<stdint.h>
+
+1717410362 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\com.h
+	<stdio.h>
+	<stdint.h>
+
+1717418929 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\app.c
+	"app.h"
+
+1717419193 source:d:\ashish_b\microcontroller\micro_workspace\can\can_communication\rte.c
+	"rte.h"
+
+1717410362 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\rte.h
+	<stdio.h>
+	<stdint.h>
+
+1717410362 d:\ashish_b\microcontroller\micro_workspace\can\can_communication\app.h
+	<stdio.h>
+	<stdint.h>
+
